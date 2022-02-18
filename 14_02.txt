@@ -1,0 +1,12 @@
+14/02
+Construct epsilon function - e1+e2(rb, same boundary conditions) on paper for a linear dif eqn. (alpha^2(y)) -- Done
+Use SQP and solve this at 5 different points(t1, t2, t3, t4, t5) - find alpha, omega, beta for these 5 t.
+Learn matlab fmincon thing. Take this equation and run it in antya matlab.
+
+Clean up the python code and upload on Antya.
+
+16/02
+
+Set up the minimization code for our differential equation
+
+
